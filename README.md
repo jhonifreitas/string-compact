@@ -55,3 +55,9 @@ $ npm run test:cov
 
 ### Arquivo simplificado
 [test-neopro.js](https://github.com/jhonifreitas/string-compact/blob/main/test-neopro.js)
+
+### Rodando arquivo simplificado
+```bash
+# unit tests
+$ node test-neopro.js 
+```
