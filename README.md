@@ -52,3 +52,6 @@ $ npm run test
 # test coverage
 $ npm run test:cov
 ```
+
+### Arquivo simplificado
+[test-neopro.js](https://github.com/jhonifreitas/string-compact/blob/main/test-neopro.js)
